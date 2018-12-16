@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#author: Hima Kiran Alladi
 """
 This portion of the code creates topics and associated words 
 using Latent Dirichlet Allocation
